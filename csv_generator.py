@@ -18,7 +18,9 @@ employees = [
     [1003, "Ravi", 26, "QA", 650000],
     [1004, "Sneha", 28, "MLOps", 1100000],
     [1005, "Priya", 24, "Analytics", 750000],
-    [1006,"Nidhi",28, "Data Analysis",80000]
+    [1006,"Nidhi",28, "Data Analysis",80000],
+    [1007,"Ankit",29,"AI",80000],
+    [1008,"Pallavi",27,"Data",80000]
 ]
 
 # Write CSV file
